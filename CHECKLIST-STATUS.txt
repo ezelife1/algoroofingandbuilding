@@ -1,0 +1,9 @@
+DOMAIN UPDATE VERIFIED
+Canonical and og:url: all six pages use https://algoroofingandbuilding.co.uk/ and their correct page paths.
+Open Graph and Twitter images: absolute final-domain URLs, correct JPEG type and 1200 x 630 dimensions.
+Structured data: final-domain business and image URLs.
+Indexing: index,follow,max-image-preview:large on all six pages.
+robots.txt: all crawlers allowed; explicit Facebook crawler allow rules; final-domain sitemap reference.
+Sitemap: six final-domain URLs.
+Local HTML assets and page links checked; unique titles and descriptions retained; schemas parse; social image decodes; archive integrity tested.
+LIVE PENDING: real HTTP access from Meta, Facebook cached preview, Search Console and indexing require deployment.
